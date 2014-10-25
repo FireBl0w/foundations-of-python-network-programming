@@ -35,6 +35,14 @@ should be:
 
 Instead of being stored as four decimal digits 4, 2, 5, and 3 with ...
 
+On page 78:
+
+In listing 5-2, 
+"usage: streamer.py server|client [host]"
+
+should be:
+"usage: blocks.py server|client [host]"
+
 On page 122:
 
 (from the queue module)
